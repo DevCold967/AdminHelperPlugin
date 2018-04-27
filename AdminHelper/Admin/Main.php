@@ -10,7 +10,7 @@ use pocketmine\utils\TextFormat;
 use pocketmine\Player;
 use pocketmine\event\Listener;
 
-// You need to have FormAPI or this plugin won't work at all! \\
+// You need to have FormAPI or this plugin won't work at all! (Download: https://bit.ly/FormAPIPlugin)\\
 use jojoe77777\FormAPI;
 
 class Main extends PluginBase Listener{
